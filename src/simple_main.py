@@ -211,7 +211,7 @@ Database:
 
 from google import genai
 # GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-client2 = genai.Client(api_key="AIzaSyB1hUf6hRlrrbNtspW1zPT_AoWQeEBFZeQ")
+client2 = genai.Client(api_key="")
 response = client2.models.generate_content(
     model="gemini-2.0-flash", contents=gemini_prompt,
     config={
