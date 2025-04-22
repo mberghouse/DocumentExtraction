@@ -1,0 +1,124 @@
+{
+    "file_name": "STANDARD_TRUCKLOAD_BILL_OF_LADING",
+    "topics": [
+        "bill of lading",
+        "shipping document",
+        "freight charges"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "MERCHANT BUSINESS SYSTEMS LLC",
+        "shipper_company_info": {
+            "name": "MERCHANT BUSINESS SYSTEMS LLC",
+            "address": "61 BETTERMARCH ST",
+            "city": "BOSTON",
+            "state": "MA",
+            "zip": "02110",
+            "phone": "555-555-5555",
+            "sidr": "123456"
+        },
+        "shipment_info": {
+            "ship_from": "MERCHANT BUSINESS SYSTEMS LLC",
+            "ship_to": "MERCHANT BUSINESS SYSTEMS LLC",
+            "date": "04/14/2023",
+            "time": "12:00",
+            "shipper_special_instructions": "LIFT GATE REQUIRED"
+        },
+        "shipment_product_info": {
+            "packages": [
+                {
+                    "qty": 1,
+                    "type": "PALLET",
+                    "weight": 300.0,
+                    "hazmat": false,
+                    "description": "Engine ( 39 x 43 x 37 )"
+                },
+                {
+                    "qty": 1,
+                    "type": "PALLET",
+                    "weight": 120.0,
+                    "hazmat": false,
+                    "description": "Sensors/Test Equipment ( 40 x 40 x 24 )"
+                },
+                {
+                    "qty": 1,
+                    "type": "PALLET",
+                    "weight": 300.0,
+                    "hazmat": false,
+                    "description": "Replayer ( 39 x 43 x 37 )"
+                }
+            ],
+            "total_weight": 720.0
+        },
+        "driver_info": {
+            "name": "Driver Name",
+            "signature": false
+        },
+        "vehicle_info": {
+            "trailer_number": "Trailer Number",
+            "vIN": "VIN Number",
+            "scac": "SCAC Code"
+        },
+        "cost_info": {
+            "freight_charge_term": "Freight charges as per usual terms",
+            "prepaid": false,
+            "collect": false,
+            "third_party": false,
+            "total_amount": "Total Amount",
+            "fee_terms": "Fee Terms",
+            "customer_check_acceptable": "Customer Check Acceptable"
+        },
+        "consignee_company_info": {
+            "name": "MERCHANT BUSINESS SYSTEMS LLC",
+            "address": "61 BETTERMARCH ST",
+            "city": "BOSTON",
+            "state": "MA",
+            "zip": "02110",
+            "phone": "555-555-5555",
+            "sidr": "123456"
+        },
+        "delivery_info": {
+            "delivery_date": "04/17/2023",
+            "delivery_time": "06:00-17:00",
+            "delivery_location": "check"
+        },
+        "carrier_info": {
+            "name": "CARRIER NAME",
+            "trailer_number": "Trailer Number",
+            "vIN": "VIN Number",
+            "scac": "SCAC Code"
+        },
+        "broker_info": {
+            "name": "Broker Name",
+            "address": "Broker Address",
+            "city": "Broker City",
+            "state": "Broker State",
+            "zip": "Broker Zip",
+            "phone": "Broker Phone"
+        },
+        "tms_info": {
+            "master_bill_of_lading": "Master Bill of Lading",
+            "attached_duplicate_bills": "Attached Duplicate Bills"
+        },
+        "eld_provider_info": {
+            "eld_provider": "ELD Provider",
+            "eld_id": "ELD ID"
+        },
+        "signatures": {
+            "shipper_signature": false,
+            "date": "04/14/2023",
+            "driver_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "04/14/2023",
+        "entity_type": "bill of lading",
+        "special_instructions": "LIFT GATE REQUIRED"
+    }
+}

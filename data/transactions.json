@@ -1,0 +1,1582 @@
+[
+  {
+    "entity_id": "02da5e99-4930-4fb6-8a52-44ea891a7f04",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:21.925703",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "9d9e4729-fc98-4cdd-b1b9-53115a3a07ea",
+    "created_date": "2025-04-13T20:57:21.925861",
+    "last_updated": "2025-04-13T20:57:21.925861"
+  },
+  {
+    "entity_id": "27b76c58-23a3-4fe9-829f-1cb6cd953209",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:23.160447",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "8c92db9a-bda3-48c0-954b-28d95c0629b8",
+    "created_date": "2025-04-13T20:57:23.160577",
+    "last_updated": "2025-04-13T20:57:23.160577"
+  },
+  {
+    "entity_id": "6512b52b-0d6d-4679-93b6-95efd4ea0f02",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "",
+        "seal_number": "",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_term_details": {
+          "prepaid": false,
+          "collect": false,
+          "third_party": true,
+          "master_bol": false
+        }
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:27.011325",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "",
+      "seal_number": "",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_term_details": {
+        "prepaid": false,
+        "collect": false,
+        "third_party": true,
+        "master_bol": false
+      }
+    },
+    "cost_info": {},
+    "_id": "b904013a-b25f-40b6-b4e2-f46f4420f601",
+    "created_date": "2025-04-13T20:57:27.011365",
+    "last_updated": "2025-04-13T20:57:27.011365"
+  },
+  {
+    "entity_id": "f34e3dd3-d3fc-481d-94e4-c1884bfa06c1",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "qty": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:29.675067",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "qty": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "d0d14957-c2e4-411f-8264-4511905d1ffa",
+    "created_date": "2025-04-13T20:57:29.675187",
+    "last_updated": "2025-04-13T20:57:29.675187"
+  },
+  {
+    "entity_id": "f0849bd2-2a43-4aee-baa5-2623d7865759",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:35.334601",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "40755b40-fb58-403a-9fd6-7ef20f2b5c82",
+    "created_date": "2025-04-13T20:57:35.334644",
+    "last_updated": "2025-04-13T20:57:35.334644"
+  },
+  {
+    "entity_id": "8b041bc4-8c6a-4fbe-ba2b-ac6e4430abee",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:36.022769",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "dd3c5582-9ef7-4aa4-979d-5a1c676cd59c",
+    "created_date": "2025-04-13T20:57:36.022803",
+    "last_updated": "2025-04-13T20:57:36.022803"
+  },
+  {
+    "entity_id": "423da9fc-96eb-4d8d-b5ab-ab5033930cbd",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "",
+        "seal_number": "",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_term_details": {
+          "prepaid": false,
+          "collect": false,
+          "third_party": true,
+          "master_bol": false
+        }
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:37.391279",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "",
+      "seal_number": "",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_term_details": {
+        "prepaid": false,
+        "collect": false,
+        "third_party": true,
+        "master_bol": false
+      }
+    },
+    "cost_info": {},
+    "_id": "2733e418-2495-4949-92d3-170669ebb551",
+    "created_date": "2025-04-13T20:57:37.391383",
+    "last_updated": "2025-04-13T20:57:37.391383"
+  },
+  {
+    "entity_id": "4d55587e-d853-4c1a-aedb-14a5ee6e7a00",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:40.322730",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "52d7254b-3a87-43d5-b04b-bec5cdb39a18",
+    "created_date": "2025-04-13T20:57:40.322774",
+    "last_updated": "2025-04-13T20:57:40.322774"
+  },
+  {
+    "entity_id": "8c0e39fe-0c10-489b-ae55-850213b2875c",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "",
+        "seal_number": "",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_term_details": {
+          "prepaid": false,
+          "collect": false,
+          "third_party": true,
+          "master_bol": false
+        }
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:49.206567",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "",
+      "seal_number": "",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_term_details": {
+        "prepaid": false,
+        "collect": false,
+        "third_party": true,
+        "master_bol": false
+      }
+    },
+    "cost_info": {},
+    "_id": "bfe4c040-4c55-47ed-ba3e-7125c0940ba0",
+    "created_date": "2025-04-13T20:57:49.206611",
+    "last_updated": "2025-04-13T20:57:49.206611"
+  },
+  {
+    "entity_id": "48ef176a-6f9f-4cb5-8f66-53c2266d2877",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:57:50.511418",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "38aa8fc8-bfe2-4614-a978-5a93a213b28b",
+    "created_date": "2025-04-13T20:57:50.511492",
+    "last_updated": "2025-04-13T20:57:50.511492"
+  },
+  {
+    "entity_id": "91de5e21-ae36-4794-872b-95e3bfc616e5",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "qty": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:52.333898",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "qty": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "d491ad75-ae79-433b-ad7c-9c4d67e39eb4",
+    "created_date": "2025-04-13T20:57:52.333955",
+    "last_updated": "2025-04-13T20:57:52.333955"
+  },
+  {
+    "entity_id": "8dfb4869-e844-49a1-8b6b-930363cf8f9c",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:53.320835",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "48b713cb-fae6-4b5c-9d6c-6fd878e132c7",
+    "created_date": "2025-04-13T20:57:53.320896",
+    "last_updated": "2025-04-13T20:57:53.320896"
+  },
+  {
+    "entity_id": "25aaea38-6074-40a5-b3c0-86c60860c18a",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T20:57:53.769092",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "a4b188da-126c-48d8-a0af-4326911fcbd5",
+    "created_date": "2025-04-13T20:57:53.769150",
+    "last_updated": "2025-04-13T20:57:53.769150"
+  },
+  {
+    "entity_id": "272264bb-e72a-4929-b83e-038f6e3a8f57",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "",
+        "seal_number": "",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_term_details": {
+          "prepaid": false,
+          "collect": false,
+          "third_party": true,
+          "master_bol": false
+        }
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T20:58:01.239246",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "",
+      "seal_number": "",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_term_details": {
+        "prepaid": false,
+        "collect": false,
+        "third_party": true,
+        "master_bol": false
+      }
+    },
+    "cost_info": {},
+    "_id": "cda1c34c-5639-4cc9-a326-829c52a02db3",
+    "created_date": "2025-04-13T20:58:01.239292",
+    "last_updated": "2025-04-13T20:58:01.239292"
+  },
+  {
+    "entity_id": "7b57597f-5091-4be4-bee9-237b816de036",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "qty": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T20:58:04.724687",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "qty": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "03ef65b3-0bf4-43f0-a7c2-8b00f922a523",
+    "created_date": "2025-04-13T20:58:04.724757",
+    "last_updated": "2025-04-13T20:58:04.724757"
+  },
+  {
+    "entity_id": "fb379d73-dcdd-41e5-a030-96833614a87f",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T20:58:07.475413",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "0dac77ee-14b0-4513-84a1-97055f0b2002",
+    "created_date": "2025-04-13T20:58:07.475472",
+    "last_updated": "2025-04-13T20:58:07.475472"
+  },
+  {
+    "entity_id": "f38bcbbb-8acd-4cd3-baba-b4aebf70c1c7",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T20:58:19.077427",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "b4261eff-6f71-4bb8-a652-21c39dad4ee8",
+    "created_date": "2025-04-13T20:58:19.077550",
+    "last_updated": "2025-04-13T20:58:19.077550"
+  },
+  {
+    "entity_id": "02da5e99-4930-4fb6-8a52-44ea891a7f04",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:50.003515",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "d695d985-98da-47ca-84c8-6fe4b9913075",
+    "created_date": "2025-04-13T21:36:50.003669",
+    "last_updated": "2025-04-13T21:36:50.003669"
+  },
+  {
+    "entity_id": "8b041bc4-8c6a-4fbe-ba2b-ac6e4430abee",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:50.007078",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "84d1fa65-f3a7-42f2-83e1-d1617ea5df8c",
+    "created_date": "2025-04-13T21:36:50.007117",
+    "last_updated": "2025-04-13T21:36:50.007117"
+  },
+  {
+    "entity_id": "48ef176a-6f9f-4cb5-8f66-53c2266d2877",
+    "document_info": {
+      "file_name": "bill_of_lading4.png",
+      "document_type": "bill of lading",
+      "date": "22-Nov-14",
+      "shipment_info": {
+        "bill_of_lading_number": "500153002",
+        "date": "22-Nov-14",
+        "place_of_issue": "Sydney",
+        "place_of_origin": "Sydney",
+        "port_of_loading": "CHICAGO, UNITED STATES",
+        "port_of_discharge": "CHICAGO, UNITED STATES",
+        "destination": "CHICAGO, UNITED STATES"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:50.010044",
+    "shipment_info": {
+      "bill_of_lading_number": "500153002",
+      "date": "22-Nov-14",
+      "place_of_issue": "Sydney",
+      "place_of_origin": "Sydney",
+      "port_of_loading": "CHICAGO, UNITED STATES",
+      "port_of_discharge": "CHICAGO, UNITED STATES",
+      "destination": "CHICAGO, UNITED STATES"
+    },
+    "cost_info": {},
+    "_id": "d536b324-cc68-4ce2-81a8-82f311bf3d74",
+    "created_date": "2025-04-13T21:36:50.010075",
+    "last_updated": "2025-04-13T21:36:50.010075"
+  },
+  {
+    "entity_id": "27b76c58-23a3-4fe9-829f-1cb6cd953209",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:50.723529",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "a4a928d5-a398-4292-8694-d99f59fb004d",
+    "created_date": "2025-04-13T21:36:50.723657",
+    "last_updated": "2025-04-13T21:36:50.723657"
+  },
+  {
+    "entity_id": "4d55587e-d853-4c1a-aedb-14a5ee6e7a00",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:50.736197",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "f490dab0-4145-4756-a3b3-cbdd5de544b8",
+    "created_date": "2025-04-13T21:36:50.736308",
+    "last_updated": "2025-04-13T21:36:50.736308"
+  },
+  {
+    "entity_id": "8dfb4869-e844-49a1-8b6b-930363cf8f9c",
+    "document_info": {
+      "file_name": "bill_of_lading7.jpg",
+      "document_type": "bill of lading",
+      "date": "15 - August - 2010",
+      "shipment_info": {
+        "packing_list_no": "219618043-1",
+        "bill_of_landing_no": "SSOF090406718",
+        "number_of_original_bills_issued": "Three (3)",
+        "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+      },
+      "cost_info": {
+        "ocean_freight": "USD 3,300"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:50.740810",
+    "shipment_info": {
+      "packing_list_no": "219618043-1",
+      "bill_of_landing_no": "SSOF090406718",
+      "number_of_original_bills_issued": "Three (3)",
+      "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+    },
+    "cost_info": {
+      "ocean_freight": "USD 3,300"
+    },
+    "_id": "2ea1dc17-400d-4c30-b93b-5a4c7afc114d",
+    "created_date": "2025-04-13T21:36:50.740854",
+    "last_updated": "2025-04-13T21:36:50.740854"
+  },
+  {
+    "entity_id": "6512b52b-0d6d-4679-93b6-95efd4ea0f02",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "N/A",
+        "seal_number": "N/A",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_type": "Prepaid",
+        "third_party": "3rd Party",
+        "master_bol": "Master BOL with underlying BOLs"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:52.974881",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "N/A",
+      "seal_number": "N/A",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_type": "Prepaid",
+      "third_party": "3rd Party",
+      "master_bol": "Master BOL with underlying BOLs"
+    },
+    "cost_info": {},
+    "_id": "30f6a789-4329-434e-9254-0752068f7993",
+    "created_date": "2025-04-13T21:36:52.974975",
+    "last_updated": "2025-04-13T21:36:52.974975"
+  },
+  {
+    "entity_id": "423da9fc-96eb-4d8d-b5ab-ab5033930cbd",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "N/A",
+        "seal_number": "N/A",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_type": "Prepaid",
+        "third_party": "3rd Party",
+        "master_bol": "Master BOL with underlying BOLs"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:52.980807",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "N/A",
+      "seal_number": "N/A",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_type": "Prepaid",
+      "third_party": "3rd Party",
+      "master_bol": "Master BOL with underlying BOLs"
+    },
+    "cost_info": {},
+    "_id": "7adfbf47-a294-41c9-8f57-11c51b987c18",
+    "created_date": "2025-04-13T21:36:52.980855",
+    "last_updated": "2025-04-13T21:36:52.980855"
+  },
+  {
+    "entity_id": "8c0e39fe-0c10-489b-ae55-850213b2875c",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "N/A",
+        "seal_number": "N/A",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_type": "Prepaid",
+        "third_party": "3rd Party",
+        "master_bol": "Master BOL with underlying BOLs"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:52.984551",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "N/A",
+      "seal_number": "N/A",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_type": "Prepaid",
+      "third_party": "3rd Party",
+      "master_bol": "Master BOL with underlying BOLs"
+    },
+    "cost_info": {},
+    "_id": "4d73bae2-cb0b-477f-99d5-3a0aac8cc919",
+    "created_date": "2025-04-13T21:36:52.984581",
+    "last_updated": "2025-04-13T21:36:52.984581"
+  },
+  {
+    "entity_id": "272264bb-e72a-4929-b83e-038f6e3a8f57",
+    "document_info": {
+      "file_name": "bill_of_lading6.jpg",
+      "document_type": "bill of lading",
+      "date": "September 13, 2021",
+      "shipment_info": {
+        "ship_date": "September 13, 2021",
+        "bill_of_lading_number": "21099992723",
+        "bol_barcode": "BOL barcode can be placed here",
+        "carrier_name": "EXAMPLE CARRIER",
+        "trailer_number": "N/A",
+        "seal_number": "N/A",
+        "pro_number": "N/A",
+        "quote_number": "N/A",
+        "customer_po": "N/A",
+        "freight_charges_term": "Prepaid unless otherwise marked",
+        "freight_charges_type": "Prepaid",
+        "third_party": "3rd Party",
+        "master_bol": "Master BOL with underlying BOLs"
+      },
+      "cost_info": {}
+    },
+    "transaction_date": "2025-04-13T21:36:52.988326",
+    "shipment_info": {
+      "ship_date": "September 13, 2021",
+      "bill_of_lading_number": "21099992723",
+      "bol_barcode": "BOL barcode can be placed here",
+      "carrier_name": "EXAMPLE CARRIER",
+      "trailer_number": "N/A",
+      "seal_number": "N/A",
+      "pro_number": "N/A",
+      "quote_number": "N/A",
+      "customer_po": "N/A",
+      "freight_charges_term": "Prepaid unless otherwise marked",
+      "freight_charges_type": "Prepaid",
+      "third_party": "3rd Party",
+      "master_bol": "Master BOL with underlying BOLs"
+    },
+    "cost_info": {},
+    "_id": "81500972-ca23-44a5-bfbc-2ea323a56cad",
+    "created_date": "2025-04-13T21:36:52.988354",
+    "last_updated": "2025-04-13T21:36:52.988354"
+  },
+  {
+    "entity_id": "f34e3dd3-d3fc-481d-94e4-c1884bfa06c1",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "quantity": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:56.763750",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "quantity": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "5cd4eb3f-bad4-479e-8748-5a7eca0358c3",
+    "created_date": "2025-04-13T21:36:56.763848",
+    "last_updated": "2025-04-13T21:36:56.763848"
+  },
+  {
+    "entity_id": "91de5e21-ae36-4794-872b-95e3bfc616e5",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "quantity": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:56.770046",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "quantity": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "b0cad86b-7da9-436e-bff1-58bf50b69822",
+    "created_date": "2025-04-13T21:36:56.770091",
+    "last_updated": "2025-04-13T21:36:56.770091"
+  },
+  {
+    "entity_id": "7b57597f-5091-4be4-bee9-237b816de036",
+    "document_info": {
+      "file_name": "bill_of_lading5.jpg",
+      "document_type": "bill of lading",
+      "date": "09/27/2018",
+      "shipment_info": {
+        "pickup_date": "09/26/2018",
+        "delivery_date": "09/27/2018"
+      },
+      "cost_info": {
+        "total_charge": "200.00 USD",
+        "description": "INLAND FREIGHT",
+        "quantity": "1.000",
+        "unit": "1",
+        "rate": "200.00"
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:56.774722",
+    "shipment_info": {
+      "pickup_date": "09/26/2018",
+      "delivery_date": "09/27/2018"
+    },
+    "cost_info": {
+      "total_charge": "200.00 USD",
+      "description": "INLAND FREIGHT",
+      "quantity": "1.000",
+      "unit": "1",
+      "rate": "200.00"
+    },
+    "_id": "c059cb5f-5a25-45dd-8f29-4e4367b2c895",
+    "created_date": "2025-04-13T21:36:56.774753",
+    "last_updated": "2025-04-13T21:36:56.774753"
+  },
+  {
+    "entity_id": "f0849bd2-2a43-4aee-baa5-2623d7865759",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:59.215114",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "5d1d5137-753b-4e64-b105-029681be19d1",
+    "created_date": "2025-04-13T21:36:59.215246",
+    "last_updated": "2025-04-13T21:36:59.215246"
+  },
+  {
+    "entity_id": "25aaea38-6074-40a5-b3c0-86c60860c18a",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:59.222421",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "2aed0124-31ed-490e-8758-aad3c08ae718",
+    "created_date": "2025-04-13T21:36:59.222467",
+    "last_updated": "2025-04-13T21:36:59.222467"
+  },
+  {
+    "entity_id": "fb379d73-dcdd-41e5-a030-96833614a87f",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:59.227520",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "a7c63217-0757-4b8b-9b16-cc246a65abb9",
+    "created_date": "2025-04-13T21:36:59.227552",
+    "last_updated": "2025-04-13T21:36:59.227552"
+  },
+  {
+    "entity_id": "f38bcbbb-8acd-4cd3-baba-b4aebf70c1c7",
+    "document_info": {
+      "file_name": "bill_of_lading10.png",
+      "document_type": "bill of lading",
+      "date": "Dec 19 2022",
+      "shipment_info": {
+        "shipper": "FREIGHTFORCE WAREHOUSE",
+        "consignee": "CHICAGO AIRPORT",
+        "pickup_date": "Jan 13 2023, 16:16",
+        "delivery_date": "Jan 16 2023, 13:13",
+        "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      },
+      "cost_info": {
+        "declared_valuation": "US$12000.00",
+        "payment_terms": "Collect",
+        "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+      }
+    },
+    "transaction_date": "2025-04-13T21:36:59.232287",
+    "shipment_info": {
+      "shipper": "FREIGHTFORCE WAREHOUSE",
+      "consignee": "CHICAGO AIRPORT",
+      "pickup_date": "Jan 13 2023, 16:16",
+      "delivery_date": "Jan 16 2023, 13:13",
+      "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+      "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+    },
+    "cost_info": {
+      "declared_valuation": "US$12000.00",
+      "payment_terms": "Collect",
+      "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+    },
+    "_id": "10fb53b5-7cf2-4002-bc55-75a640a8303d",
+    "created_date": "2025-04-13T21:36:59.232317",
+    "last_updated": "2025-04-13T21:36:59.232317"
+  },
+  {
+    "entity_id": "7362110f-3d08-46ae-8c95-9e62d0b237ab",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:41:50.811458",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "acb6e6c7-cc65-4388-8d68-f9da7704f5fd",
+    "created_date": "2025-04-13T22:41:50.811524",
+    "last_updated": "2025-04-13T22:41:50.811524"
+  },
+  {
+    "entity_id": "3039d179-c6d2-4d93-af0d-7acb5576a3a2",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:42:02.342668",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "6fcb13b1-ea28-4110-a645-9f2f746071b1",
+    "created_date": "2025-04-13T22:42:02.342893",
+    "last_updated": "2025-04-13T22:42:02.342893"
+  },
+  {
+    "entity_id": "591ab8c1-4087-4297-9514-c76b1453d5ad",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:42:15.687606",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "246ab777-58e4-43ca-a4f9-9f25b5f8ac67",
+    "created_date": "2025-04-13T22:42:15.687716",
+    "last_updated": "2025-04-13T22:42:15.687716"
+  },
+  {
+    "entity_id": "7362110f-3d08-46ae-8c95-9e62d0b237ab",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:46:53.932420",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "abdf0365-c7f2-4e0c-8666-deabd3af38c5",
+    "created_date": "2025-04-13T22:46:53.932514",
+    "last_updated": "2025-04-13T22:46:53.932514"
+  },
+  {
+    "entity_id": "3039d179-c6d2-4d93-af0d-7acb5576a3a2",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:46:53.939229",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "6b3a9875-3595-454e-a1c1-29156573b5e9",
+    "created_date": "2025-04-13T22:46:53.939275",
+    "last_updated": "2025-04-13T22:46:53.939275"
+  },
+  {
+    "entity_id": "591ab8c1-4087-4297-9514-c76b1453d5ad",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:46:53.944800",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "dd9b794f-140c-4992-9c3f-e6d3bc6d5335",
+    "created_date": "2025-04-13T22:46:53.944831",
+    "last_updated": "2025-04-13T22:46:53.944831"
+  },
+  {
+    "entity_id": "7362110f-3d08-46ae-8c95-9e62d0b237ab",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:50:32.251421",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "68895083-ead8-4013-bf1e-63ea12cfede8",
+    "created_date": "2025-04-13T22:50:32.251574",
+    "last_updated": "2025-04-13T22:50:32.251574"
+  },
+  {
+    "entity_id": "3039d179-c6d2-4d93-af0d-7acb5576a3a2",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:50:32.261992",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "a2a18106-2489-4164-9536-4121556e2b04",
+    "created_date": "2025-04-13T22:50:32.262151",
+    "last_updated": "2025-04-13T22:50:32.262151"
+  },
+  {
+    "entity_id": "591ab8c1-4087-4297-9514-c76b1453d5ad",
+    "document_info": {
+      "file_name": "bill_of_lading1.jpg",
+      "document_type": "bill of lading",
+      "date": "12-12-05",
+      "shipment_info": {
+        "shipper_origin": "Salt Lake City, UT",
+        "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+        "phone": "800-204-4000"
+      },
+      "cost_info": {
+        "fuel_type": "Diesel",
+        "fuel_level": "3/4",
+        "gas_level": "1/2",
+        "diesel_level": "1/4",
+        "empty": "X"
+      }
+    },
+    "transaction_date": "2025-04-13T22:50:32.270015",
+    "shipment_info": {
+      "shipper_origin": "Salt Lake City, UT",
+      "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+      "phone": "800-204-4000"
+    },
+    "cost_info": {
+      "fuel_type": "Diesel",
+      "fuel_level": "3/4",
+      "gas_level": "1/2",
+      "diesel_level": "1/4",
+      "empty": "X"
+    },
+    "_id": "dff725c6-bee3-4b09-8b85-b826010e9e1f",
+    "created_date": "2025-04-13T22:50:32.270098",
+    "last_updated": "2025-04-13T22:50:32.270098"
+  }
+]

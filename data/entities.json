@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Your Company Name",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "600 South Figueroa Street, Suite 400, Los Angeles, CA 90017"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [
+      "//en.wikipedia.org/wiki/Gas_Company_Tower?utm_source=openai)) This building houses various tenants",
+      "including the law firm Sidley Austin LLP. However",
+      "without the specific company name",
+      "it's challenging to provide detailed information regarding alternative names",
+      "parent companies",
+      "subsidiaries",
+      "previous names",
+      "or common abbreviations."
+    ],
+    "created_date": "2025-04-13T20:57:21.924101",
+    "last_updated": "2025-04-13T20:57:21.924101",
+    "_id": "02da5e99-4930-4fb6-8a52-44ea891a7f04"
+  },
+  {
+    "name": "Shenzhen Allsheng Trade Co., Ltd.",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "Phoenix Road Luohu district, Guangdong"
+      }
+    ],
+    "phones": [
+      "086-755-36922075"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:23.159231",
+    "last_updated": "2025-04-13T20:57:23.159231",
+    "_id": "27b76c58-23a3-4fe9-829f-1cb6cd953209"
+  },
+  {
+    "name": "Example Pick Up Company",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "123 Pick Up Street"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:27.010404",
+    "last_updated": "2025-04-13T20:57:27.010404",
+    "_id": "6512b52b-0d6d-4679-93b6-95efd4ea0f02"
+  },
+  {
+    "name": "Sample Company 1FASCLO",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "8551 EAST 86 TH STREET"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:29.673482",
+    "last_updated": "2025-04-13T20:57:29.673482",
+    "_id": "f34e3dd3-d3fc-481d-94e4-c1884bfa06c1"
+  },
+  {
+    "name": "FREIGHTFORCE WAREHOUSE",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "7 Bayview Station Road"
+      }
+    ],
+    "phones": [
+      "5147941311"
+    ],
+    "emails": [
+      "gwen@freightpath.io"
+    ],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:35.333289",
+    "last_updated": "2025-04-13T20:57:35.333289",
+    "_id": "f0849bd2-2a43-4aee-baa5-2623d7865759"
+  },
+  {
+    "name": "EXPRESS",
+    "entity_type": "carrier",
+    "addresses": [
+      {
+        "raw_address": "Sydney"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:36.021544",
+    "last_updated": "2025-04-13T20:57:36.021544",
+    "_id": "8b041bc4-8c6a-4fbe-ba2b-ac6e4430abee"
+  },
+  {
+    "name": "EXAMPLE CARRIER",
+    "entity_type": "carrier",
+    "addresses": [],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:37.389019",
+    "last_updated": "2025-04-13T20:57:37.389019",
+    "_id": "423da9fc-96eb-4d8d-b5ab-ab5033930cbd"
+  },
+  {
+    "name": "Maersk Line",
+    "entity_type": "carrier",
+    "addresses": [],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [
+      "**",
+      "**",
+      "** A commonly used abbreviation for Maersk Line."
+    ],
+    "created_date": "2025-04-13T20:57:40.320880",
+    "last_updated": "2025-04-13T20:57:40.320880",
+    "_id": "4d55587e-d853-4c1a-aedb-14a5ee6e7a00"
+  },
+  {
+    "name": "Example Delivery Company",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "123 Delivery Street"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:49.203715",
+    "last_updated": "2025-04-13T20:57:49.203715",
+    "_id": "8c0e39fe-0c10-489b-ae55-850213b2875c"
+  },
+  {
+    "name": "Freight Details, Chicago, IL",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "CHICAGO, UNITED STATES"
+      }
+    ],
+    "phones": [],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:50.509494",
+    "last_updated": "2025-04-13T20:57:50.509494",
+    "_id": "48ef176a-6f9f-4cb5-8f66-53c2266d2877"
+  },
+  {
+    "name": "Sample Company FEDEX",
+    "entity_type": "carrier",
+    "addresses": [
+      {
+        "raw_address": "5406 NW 72 AVE"
+      }
+    ],
+    "phones": [
+      "(305) 513-8555"
+    ],
+    "emails": [
+      "info@linbis.com"
+    ],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [
+      "FedEx Corporation is commonly known as \"FedEx.\" Its subsidiaries include FedEx Express",
+      "FedEx Ground",
+      "FedEx Freight",
+      "FedEx Office",
+      "and FedEx Custom Critical. ([secinfo.com](https"
+    ],
+    "created_date": "2025-04-13T20:57:52.331851",
+    "last_updated": "2025-04-13T20:57:52.331851",
+    "_id": "91de5e21-ae36-4794-872b-95e3bfc616e5"
+  },
+  {
+    "name": "Alejead Pe S.A.S.",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "Carrera 100 5-39 - Cali - Valle - Colombia"
+      }
+    ],
+    "phones": [
+      "059-032-4491451"
+    ],
+    "emails": [
+      "alejead@hotmail.com"
+    ],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:57:53.318310",
+    "last_updated": "2025-04-13T20:57:53.318310",
+    "_id": "8dfb4869-e844-49a1-8b6b-930363cf8f9c"
+  },
+  {
+    "name": "Freight Broker",
+    "entity_type": "carrier",
+    "addresses": [],
+    "phones": [
+      "5147941311"
+    ],
+    "emails": [
+      "gwen@freightpath.io"
+    ],
+    "identifiers": {
+      "usdot": "1743796",
+      "mc_number": "5245676",
+      "scac": "BABE",
+      "tax_id": ""
+    },
+    "aliases": [
+      "**",
+      "**"
+    ],
+    "created_date": "2025-04-13T20:57:53.765675",
+    "last_updated": "2025-04-13T20:57:53.765675",
+    "_id": "25aaea38-6074-40a5-b3c0-86c60860c18a"
+  },
+  {
+    "name": "Freighters Logistics Inc.",
+    "entity_type": "broker",
+    "addresses": [
+      {
+        "raw_address": "408 - 55 Water Street, Office 8036"
+      }
+    ],
+    "phones": [
+      "800-866-4870"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:58:01.236671",
+    "last_updated": "2025-04-13T21:36:52.991962",
+    "_id": "272264bb-e72a-4929-b83e-038f6e3a8f57"
+  },
+  {
+    "name": "Sample Company CODE0001",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "88185 NW 51th St Unit 811"
+      }
+    ],
+    "phones": [
+      "7866639976"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": "22222222"
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:58:04.722091",
+    "last_updated": "2025-04-13T20:58:04.722091",
+    "_id": "7b57597f-5091-4be4-bee9-237b816de036"
+  },
+  {
+    "name": "CHICAGO AIRPORT",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "10000 West O'Hare Avenue"
+      }
+    ],
+    "phones": [
+      "Phone Number"
+    ],
+    "emails": [
+      "Email Address"
+    ],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [
+      "**",
+      "**"
+    ],
+    "created_date": "2025-04-13T20:58:07.472866",
+    "last_updated": "2025-04-13T20:58:07.472866",
+    "_id": "fb379d73-dcdd-41e5-a030-96833614a87f"
+  },
+  {
+    "name": "Freight Broker",
+    "entity_type": "broker",
+    "addresses": [
+      {
+        "raw_address": "7 Bayview Station Road"
+      }
+    ],
+    "phones": [
+      "5147941311"
+    ],
+    "emails": [
+      "gwen@freightpath.io"
+    ],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T20:58:19.074056",
+    "last_updated": "2025-04-13T20:58:19.074056",
+    "_id": "f38bcbbb-8acd-4cd3-baba-b4aebf70c1c7"
+  },
+  {
+    "name": "ABC Company",
+    "entity_type": "shipper",
+    "addresses": [
+      {
+        "raw_address": "100 Main Street"
+      }
+    ],
+    "phones": [
+      "800-564-9992"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T22:41:50.807190",
+    "last_updated": "2025-04-13T22:41:50.807190",
+    "_id": "7362110f-3d08-46ae-8c95-9e62d0b237ab"
+  },
+  {
+    "name": "MAMO TRANSPORTATION, INC.",
+    "entity_type": "carrier",
+    "addresses": [
+      {
+        "raw_address": "P.O. Box 40"
+      }
+    ],
+    "phones": [
+      "888-668-6885"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T22:42:02.339614",
+    "last_updated": "2025-04-13T22:42:02.339614",
+    "_id": "3039d179-c6d2-4d93-af0d-7acb5576a3a2"
+  },
+  {
+    "name": "123 Firm",
+    "entity_type": "consignee",
+    "addresses": [
+      {
+        "raw_address": "642 Maple Lane"
+      }
+    ],
+    "phones": [
+      "800-204-4000"
+    ],
+    "emails": [],
+    "identifiers": {
+      "usdot": "",
+      "mc_number": "",
+      "scac": "",
+      "tax_id": ""
+    },
+    "aliases": [],
+    "created_date": "2025-04-13T22:42:15.684605",
+    "last_updated": "2025-04-13T22:42:15.684605",
+    "_id": "591ab8c1-4087-4297-9514-c76b1453d5ad"
+  }
+]

@@ -1,0 +1,240 @@
+{
+    "file_name": "Bill of Lading #FRP-500344-1",
+    "topics": [
+        "Bill of Lading",
+        "Freight Broker",
+        "Shipment",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "FREIGHTFORCE WAREHOUSE",
+        "shipper_company_info": {
+            "name": "FREIGHTFORCE WAREHOUSE",
+            "address": "7 Bayview Station Road",
+            "city": "Ottawa",
+            "state": "Ontario",
+            "country": "Canada",
+            "postal_code": "K1Y 3BS",
+            "contact_name": "Gwen Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io"
+        },
+        "shipment_info": {
+            "shipper": "FREIGHTFORCE WAREHOUSE",
+            "consignee": "CHICAGO AIRPORT",
+            "pickup_date": "Jan 13 2023, 16:16",
+            "delivery_date": "Jan 16 2023, 13:13",
+            "pickup_location": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+            "delivery_location": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+        },
+        "shipment_product_info": {
+            "items": [
+                {
+                    "units": 4,
+                    "type": "CARTON",
+                    "description": "Machinery Parts - Bolts",
+                    "dimensions": "48\" x 48\" x 48\"",
+                    "weight": "23000.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_value": "N"
+                },
+                {
+                    "units": 7,
+                    "type": "PACKAGE",
+                    "description": "Machinery Parts - Nuts",
+                    "dimensions": "28\" x 28\" x 28\"",
+                    "weight": "7600.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_value": "N"
+                },
+                {
+                    "units": 1,
+                    "type": "PIECES",
+                    "description": "Machinery Parts - Engine CAT 6400",
+                    "dimensions": "0\" x 0\" x 0\"",
+                    "weight": "23000.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_value": "N"
+                }
+            ],
+            "total_weight": "53600.00 lb"
+        },
+        "driver_info": {
+            "name": "Driver Name",
+            "signature": false
+        },
+        "vehicle_info": {
+            "vehicle_id": "Vehicle ID",
+            "license_plate": "License Plate"
+        },
+        "cost_info": {
+            "declared_valuation": "US$12000.00",
+            "payment_terms": "Collect",
+            "terms_and_conditions": "RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment. Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+        },
+        "consignee_company_info": {
+            "name": "CHICAGO AIRPORT",
+            "address": "10000 West O'Hare Avenue",
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States",
+            "postal_code": "60666",
+            "contact_name": "Contact Name",
+            "phone": "Phone Number",
+            "email": "Email Address"
+        },
+        "delivery_info": {
+            "delivery_instruction": "Arrive 2 hours before unloading begins at mining site."
+        },
+        "carrier_info": {
+            "name": "Freight Broker",
+            "scac": "BABE",
+            "mc_number": "5245676",
+            "usdot": "1743796",
+            "contact_name": "Gwena\u00ebl Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io"
+        },
+        "broker_info": {
+            "name": "Freight Broker",
+            "address": "7 Bayview Station Road",
+            "city": "Ottawa",
+            "state": "Ontario",
+            "country": "Canada",
+            "postal_code": "K1Y 3BS",
+            "contact_name": "Gwena\u00ebl Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io"
+        },
+        "tms_info": {
+            "tms_id": "FRP-500344-1"
+        },
+        "eld_provider_info": {
+            "provider": "ELD Provider",
+            "eld_id": "ELD ID"
+        },
+        "signatures": {
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": true
+        },
+        "date": "Dec 19 2022",
+        "entity_type": "bill of lading",
+        "special_instructions": "Handle with care and call John prior to arriving at facility"
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "company_name": "FREIGHTFORCE WAREHOUSE",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "FREIGHTFORCE WAREHOUSE",
+                "matched_id": "67fb26af810d50c07a6241e8",
+                "addresses": [
+                    {
+                        "street": "7 Bayview Station Road",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "7 Bayview Station Road"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "carrier",
+            "company_name": "Freight Broker",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Freight Broker",
+                "matched_id": "67fb26c1810d50c07a6241ea",
+                "addresses": [],
+                "identifiers": {
+                    "usdot": "1743796",
+                    "mc_number": "5245676",
+                    "scac": "BABE",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "consignee",
+            "company_name": "CHICAGO AIRPORT",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "CHICAGO AIRPORT",
+                "matched_id": "67fb26cd810d50c07a6241ec",
+                "addresses": [
+                    {
+                        "street": "10000 West O'Hare Avenue",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "10000 West O'Hare Avenue"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "broker",
+            "company_name": "Freight Broker",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Freight Broker",
+                "matched_id": "67fb26da810d50c07a6241ee",
+                "addresses": [
+                    {
+                        "street": "7 Bayview Station Road",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "7 Bayview Station Road"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        }
+    ]
+}

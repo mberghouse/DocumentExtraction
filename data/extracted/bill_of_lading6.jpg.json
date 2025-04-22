@@ -1,0 +1,198 @@
+{
+    "file_name": "Bill_of_Lading",
+    "topics": [
+        "Bill of Lading",
+        "Shipping Document",
+        "Logistics"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "Example Pick Up Company",
+        "shipper_company_info": {
+            "name": "Example Pick Up Company",
+            "address": "123 Pick Up Street",
+            "city": "Vancouver",
+            "province": "BC",
+            "postal_code": "V5K 0A4",
+            "country": "Canada",
+            "location_type": "Business without Dock or Forklift",
+            "contact": "(123) 456-7890",
+            "pickup_hours": "9:00AM to 5:00PM",
+            "sid": "N/A",
+            "special_handling": "Protect From Freeze"
+        },
+        "shipment_info": {
+            "ship_date": "September 13, 2021",
+            "bill_of_lading_number": "21099992723",
+            "bol_barcode": "BOL barcode can be placed here",
+            "carrier_name": "EXAMPLE CARRIER",
+            "trailer_number": "N/A",
+            "seal_number": "N/A",
+            "pro_number": "N/A",
+            "quote_number": "N/A",
+            "customer_po": "N/A",
+            "freight_charges_term": "Prepaid unless otherwise marked",
+            "freight_charges_type": "Prepaid",
+            "third_party": "3rd Party",
+            "master_bol": "Master BOL with underlying BOLs"
+        },
+        "shipment_product_info": {
+            "handling_unit": "Pallet",
+            "quantity": 1,
+            "weight": "300 lb",
+            "dimensions": "48x40x48 in",
+            "description": "Example Goods",
+            "total_weight": "300 Lbs"
+        },
+        "driver_info": {},
+        "vehicle_info": {},
+        "cost_info": {},
+        "consignee_company_info": {
+            "name": "Example Delivery Company",
+            "address": "123 Delivery Street",
+            "city": "Toronto",
+            "province": "ON",
+            "postal_code": "M1B 0A1",
+            "country": "Canada",
+            "location_type": "Business with Dock or Forklift",
+            "contact": "(123) 456-7890",
+            "delivery_hours": "8:00AM to 5:00PM",
+            "cid": "N/A",
+            "special_handling": "N/A"
+        },
+        "delivery_info": {},
+        "carrier_info": {
+            "name": "EXAMPLE CARRIER",
+            "trailer_number": "N/A",
+            "seal_number": "N/A",
+            "pro_number": "N/A",
+            "quote_number": "N/A",
+            "customer_po": "N/A"
+        },
+        "broker_info": {
+            "name": "Freighters Logistics Inc.",
+            "address": "408 - 55 Water Street, Office 8036",
+            "city": "Vancouver",
+            "province": "BC",
+            "postal_code": "V6B 1A1",
+            "phone": "800-866-4870"
+        },
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {},
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "September 13, 2021",
+        "entity_type": "bill of lading",
+        "special_instructions": "- Shipper: Please call 15 minutes before pickup"
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "company_name": "Example Pick Up Company",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Example Pick Up Company",
+                "matched_id": "67fb26fa810d50c07a6241f0",
+                "addresses": [
+                    {
+                        "street": "123 Pick Up Street",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "123 Pick Up Street"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "carrier",
+            "company_name": "EXAMPLE CARRIER",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "EXAMPLE CARRIER",
+                "matched_id": "67fb270a810d50c07a6241f2",
+                "addresses": [],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "consignee",
+            "company_name": "Example Delivery Company",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Example Delivery Company",
+                "matched_id": "67fb2716810d50c07a6241f4",
+                "addresses": [
+                    {
+                        "street": "123 Delivery Street",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "123 Delivery Street"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "broker",
+            "company_name": "Freighters Logistics Inc.",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Freighters Logistics Inc.",
+                "matched_id": "67fb2725810d50c07a6241f6",
+                "addresses": [
+                    {
+                        "street": "408 - 55 Water Street, Office 8036",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "408 - 55 Water Street, Office 8036"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        }
+    ]
+}

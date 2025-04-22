@@ -1,0 +1,198 @@
+{
+    "file_name": "CARRIER'S RATE CONFIRMATION",
+    "topics": [
+        "logistics",
+        "shipping",
+        "transportation",
+        "invoice"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "Sample Company",
+        "shipper_company_info": {
+            "name": "Sample Company 1FASCLO",
+            "address": "8551 EAST 86 TH STREET",
+            "city": "Sample City",
+            "state": "CA",
+            "zip": "55532"
+        },
+        "shipment_info": {
+            "pickup_date": "09/26/2018",
+            "delivery_date": "09/27/2018"
+        },
+        "shipment_product_info": {
+            "pieces": 610,
+            "packages": [
+                {
+                    "type": "LD-11 PALLET (IATA TYPE 6)",
+                    "dimensions": "124.8 x 60.24 x 62.99 in",
+                    "description": "paper",
+                    "weight": "500.000 kg",
+                    "volume": "77.600 m3"
+                },
+                {
+                    "type": "BOX",
+                    "dimensions": "10 x 20 x 25 in",
+                    "description": "Locomotive Parts",
+                    "weight": "1020.600 kg",
+                    "volume": "4.100 ft3"
+                },
+                {
+                    "type": "BOX",
+                    "dimensions": "10 x 20 x 25 in",
+                    "description": "Iphone x",
+                    "weight": "10206.000 kg",
+                    "volume": "41.000 ft3"
+                },
+                {
+                    "type": "PALLET",
+                    "dimensions": "48 x 54 x 25 in",
+                    "description": "motor",
+                    "weight": "15000.000 kg",
+                    "volume": "53.100 ft3"
+                }
+            ]
+        },
+        "driver_info": {
+            "name": "John Smith",
+            "license": "J-0052-5215-2231"
+        },
+        "vehicle_info": {},
+        "cost_info": {
+            "total_charge": "200.00 USD",
+            "description": "INLAND FREIGHT",
+            "quantity": "1.000",
+            "unit": "1",
+            "rate": "200.00"
+        },
+        "consignee_company_info": {
+            "name": "Sample Company CODE0001",
+            "address": "88185 NW 51th St Unit 811",
+            "city": "Sample City",
+            "state": "",
+            "zip": "55532",
+            "contact": "eric fern",
+            "phone": "7866639976",
+            "tax_id": "22222222"
+        },
+        "delivery_info": {
+            "instructions": "instruction"
+        },
+        "carrier_info": {
+            "name": "Sample Company FEDEX",
+            "address": "5406 NW 72 AVE",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33166",
+            "country": "PANAMA",
+            "phone": "(305) 513-8555",
+            "fax": "(305) 513-8555",
+            "email": "info@linbis.com",
+            "website": "www.linbis.com"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "09/27/2018",
+        "entity_type": "bill of lading",
+        "special_instructions": "Please verify cargo availability prior to pick up and arrange delivery prior to last free day"
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "company_name": "Sample Company 1FASCLO",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Sample Company 1FASCLO",
+                "matched_id": "67fb55170c6d21d2b15275d4",
+                "addresses": [
+                    {
+                        "street": "8551 EAST 86 TH STREET",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "8551 EAST 86 TH STREET"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "carrier",
+            "company_name": "Sample Company FEDEX",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Sample Company FEDEX",
+                "matched_id": "67fb55240c6d21d2b15275d8",
+                "addresses": [
+                    {
+                        "street": "5406 NW 72 AVE",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "5406 NW 72 AVE"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "consignee",
+            "company_name": "Sample Company CODE0001",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Sample Company CODE0001",
+                "matched_id": "67fb55310c6d21d2b15275dc",
+                "addresses": [
+                    {
+                        "street": "88185 NW 51th St Unit 811",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "88185 NW 51th St Unit 811"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": "22222222"
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        }
+    ]
+}

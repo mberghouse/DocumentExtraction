@@ -1,0 +1,78 @@
+{
+    "file_name": "img-0.jpeg",
+    "topics": [
+        "Bill of Lading",
+        "Ocean Transport",
+        "Shipping",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "MAERSK LINE",
+        "shipper_company_info": {
+            "name": "H. JUNG JEWELRY CO., LTD.",
+            "address": "116-1, Hwajeong-ro, Giheung-gu, Yongin-si, Gyeonggi-do, Korea",
+            "phone": "+82-31-219-7000",
+            "fax": "+82-31-219-7009"
+        },
+        "shipment_info": {
+            "bill_of_lading_number": "855230418",
+            "report_officer": "MAEU",
+            "date": "2007-10-04",
+            "container_number": "0764",
+            "place_of_receipt": "Anjong",
+            "place_of_delivery": "Newark",
+            "total_weight": "19470.00 KGS"
+        },
+        "shipment_product_info": {
+            "product_name": "BOLIVIA WASHED ARABICA COFFEE PRIMERA ORGANIC, CROP 2007",
+            "quantity": "275 BAGS",
+            "net_weight": "70 KG",
+            "hs_code": "090111190",
+            "fda_code": "11923540592"
+        },
+        "driver_info": {},
+        "vehicle_info": {},
+        "cost_info": {
+            "freight": "1500.00 USD",
+            "bunker_adjustment_factor": "0.00 USD",
+            "chassis_usage": "0.00 USD",
+            "destination_harbor_due": "0.00 USD",
+            "destination_handling_charge": "0.00 USD",
+            "emergency_bunker_surcharge": "0.00 USD",
+            "documentation_fee_origin": "0.00 USD"
+        },
+        "consignee_company_info": {
+            "name": "DEL MAR SHIPPING SRL",
+            "address": "Via G. Di Vittorio, 2/A - 16038 - Savona (SV) - Italy",
+            "phone": "+39 019 9337211",
+            "fax": "+39 019 831789"
+        },
+        "delivery_info": {
+            "destination": "Newark",
+            "date": "2007-10-04"
+        },
+        "carrier_info": {
+            "name": "MAERSK LINE",
+            "contact": "BILL HARRIS"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": true,
+            "consignee_signature": false
+        },
+        "date": "2007-10-04",
+        "entity_type": "bill of lading",
+        "special_instructions": "This transport document has one or more numbered attachments"
+    }
+}

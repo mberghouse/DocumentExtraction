@@ -1,0 +1,152 @@
+{
+    "file_name": "SAMPLE BILL OF LADING",
+    "topics": [
+        "Bill of Lading",
+        "Freight Forwarder",
+        "Quotation",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "EXPRESS",
+        "shipper_company_info": {
+            "name": "Your Company Name",
+            "address": "600 South Figueroa Street, Suite 400, Los Angeles, CA 90017"
+        },
+        "shipment_info": {
+            "bill_of_lading_number": "500153002",
+            "date": "22-Nov-14",
+            "place_of_issue": "Sydney",
+            "place_of_origin": "Sydney",
+            "port_of_loading": "CHICAGO, UNITED STATES",
+            "port_of_discharge": "CHICAGO, UNITED STATES",
+            "destination": "CHICAGO, UNITED STATES"
+        },
+        "shipment_product_info": {
+            "commodity": "ANL ZENHAIRE / 4355",
+            "description": "SEATS",
+            "quantity": "1",
+            "type": "20GP",
+            "weight": "2073.046 kg",
+            "volume": "3.128 m3",
+            "packages": "1 PACK",
+            "measure": "kg"
+        },
+        "driver_info": {},
+        "vehicle_info": {},
+        "cost_info": {},
+        "consignee_company_info": {
+            "name": "Freight Details, Chicago, IL",
+            "address": "CHICAGO, UNITED STATES"
+        },
+        "delivery_info": {},
+        "carrier_info": {
+            "name": "EXPRESS",
+            "address": "Sydney"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "22-Nov-14",
+        "entity_type": "bill of lading",
+        "special_instructions": "Bill of Lading must be surrendered to the Carrier's Agent or Representative at the place of delivery before goods are delivered to the Consignee."
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "company_name": "Your Company Name",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Your Company Name",
+                "matched_id": "67fb55120c6d21d2b15275d2",
+                "addresses": [
+                    {
+                        "street": "600 South Figueroa Street",
+                        "city": "Suite 400",
+                        "state": "Los Angeles",
+                        "country": "CA 90017",
+                        "postal_code": "",
+                        "raw_address": "600 South Figueroa Street, Suite 400, Los Angeles, CA 90017"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "carrier",
+            "company_name": "EXPRESS",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "EXPRESS",
+                "matched_id": "67fb55220c6d21d2b15275d6",
+                "addresses": [
+                    {
+                        "street": "Sydney",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "Sydney"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "consignee",
+            "company_name": "Freight Details, Chicago, IL",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Freight Details, Chicago, IL",
+                "matched_id": "67fb552d0c6d21d2b15275da",
+                "addresses": [
+                    {
+                        "street": "CHICAGO, UNITED STATES",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "CHICAGO, UNITED STATES"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        }
+    ]
+}

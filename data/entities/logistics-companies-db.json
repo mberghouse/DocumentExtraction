@@ -1,0 +1,527 @@
+{
+  "companies": [
+    {
+      "id": "COMP001",
+      "entity_type": "carrier",
+      "name": "MAMO Transportation, Inc.",
+      "carrier_name": "MAMO Transportation, Inc.",
+      "drivers": [
+        {
+          "name": "Joseph Driver",
+          "id": "03IN9999",
+          "load_number": "78910"
+        }
+      ],
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "123 Firm",
+      "delivery_location": {
+        "address": "642 Maple Lane",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02110",
+        "phone": "800-304-4000"
+      },
+      "location_name": "Osceola, IN",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "usdot": "753560",
+      "contact_info": {
+        "phone": "888-668-6885",
+        "fax": "866-450-3580",
+        "address": "P.O. Box 40, Osceola, IN 46561",
+        "website": "www.mamotransportation.com"
+      }
+    },
+    {
+      "id": "COMP002",
+      "entity_type": "shipper",
+      "name": "ABC Company",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": "ABC Company",
+      "consignee_name": null,
+      "location_name": "Salt Lake City, Utah",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "phone": "800-564-9998",
+        "address": "100 Main Street, Salt Lake City, Utah"
+      }
+    },
+    {
+      "id": "COMP003",
+      "entity_type": "consignee",
+      "name": "123 Firm",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "123 Firm",
+      "location_name": "Boston, MA",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "phone": "800-205-4000",
+        "address": "642 Maple Lane, Boston, MA"
+      }
+    },
+    {
+      "id": "COMP004",
+      "entity_type": "carrier",
+      "name": "Combined Transport S.A.",
+      "carrier_name": "Combined Transport S.A.",
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "ports": ["Halifax", "Toronto"]
+    },
+    {
+      "id": "COMP005",
+      "entity_type": "financial",
+      "name": "Vitara Bank Ltd.",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Mississauga, ON",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": "Vitara Bank Ltd.",
+      "active": true,
+      "contact_info": {
+        "address": "375 Traders Blvd., Mississauga, ON L4Z 2K5"
+      }
+    },
+    {
+      "id": "COMP006",
+      "entity_type": "carrier",
+      "name": "Maersk Line",
+      "carrier_name": "Maersk Line",
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "services": ["Ocean Freight", "Multimodal Transport"],
+      "bill_of_lading_prefix": "MSCU"
+    },
+    {
+      "id": "COMP007",
+      "entity_type": "shipper",
+      "name": "Shenzhen Allsheng Import",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": "Shenzhen Allsheng Import",
+      "consignee_name": null,
+      "location_name": "Shenzhen, China",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "Phoenix Road, Luohu district, Guangdong, Shenzhen city, China",
+        "telephone": "086-755-36922075",
+        "fax": "086-755-36922075"
+      }
+    },
+    {
+      "id": "COMP008",
+      "entity_type": "consignee",
+      "name": "Alejcid Pc S.A.S.",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "Alejcid Pc S.A.S.",
+      "location_name": "Cali, Colombia",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "Carrera 100 5-39, Cali, Valle, Colombia",
+        "postal": "28459",
+        "telephone": "059-032-4491451",
+        "email": "alejcaid@hotmail.com"
+      }
+    },
+    {
+      "id": "COMP009",
+      "entity_type": "software",
+      "name": "Linbis Logistics Software",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Miami, FL",
+      "tms_name": "Linbis Logistics Software",
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "5406 NW 72 AVE, Miami, FL 33166 PANAMA",
+        "phone": "(305) 513-8555",
+        "fax": "(305) 513-8555",
+        "email": "info@linbis.com",
+        "website": "www.linbis.com"
+      }
+    },
+    {
+      "id": "COMP010",
+      "entity_type": "carrier",
+      "name": "FedEx",
+      "carrier_name": "FedEx",
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true
+    },
+    {
+      "id": "COMP011",
+      "entity_type": "shipper",
+      "name": "Sample Company IFASCLO",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": "Sample Company IFASCLO",
+      "consignee_name": null,
+      "location_name": "Sample City, CA",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "8551 EAST 86 TH STREET, Sample City, CA 55532"
+      }
+    },
+    {
+      "id": "COMP012",
+      "entity_type": "consignee",
+      "name": "Sample Company CODE",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "Sample Company CODE",
+      "location_name": "Sample City, 55532",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "88185 NW 51th St Unit 811, Sample City, 55532",
+        "contact_person": "eric fern",
+        "tax_id": "22222222"
+      }
+    },
+    {
+      "id": "COMP013",
+      "entity_type": "broker",
+      "name": "Freightera Logistics Inc.",
+      "carrier_name": null,
+      "broker_name": "Freightera Logistics Inc.",
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Vancouver, BC",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "408 - 55 Water Street, Office B036, Vancouver, BC V6B 1A1",
+        "phone": "800-866-4870",
+        "email": "accountspayable@freightera.com"
+      }
+    },
+    {
+      "id": "COMP014",
+      "entity_type": "broker",
+      "name": "Mercury Business SVCS LLC",
+      "carrier_name": null,
+      "broker_name": "Mercury Business SVCS LLC",
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Boston, MA",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "61 BATTERYMARCH ST, BOSTON, MA 02110 US"
+      }
+    },
+    {
+      "id": "COMP015",
+      "entity_type": "software",
+      "name": "Detrack",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": "Detrack",
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "services": ["Delivery Tracking", "Proof of Delivery"]
+    },
+    {
+      "id": "COMP016",
+      "entity_type": "carrier",
+      "name": "Dropoff",
+      "carrier_name": "Dropoff",
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "services": ["Package Delivery", "Proof of Delivery"]
+    },
+    {
+      "id": "COMP017",
+      "entity_type": "pickup_location",
+      "name": "7-Eleven",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Cedar Park, TX",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true
+    },
+    {
+      "id": "COMP018",
+      "entity_type": "consignee",
+      "name": "Abuelo's",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "Abuelo's",
+      "location_name": "Austin, TX",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "location": {
+        "address": "1234, Austin, TX 78746"
+      }
+    },
+    {
+      "id": "COMP019",
+      "entity_type": "recipient",
+      "name": "HEB",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "HEB",
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true
+    },
+    {
+      "id": "COMP020",
+      "entity_type": "shipper",
+      "name": "Wetmore & Company",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": "Wetmore & Company",
+      "consignee_name": null,
+      "location_name": "Houston, TX",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "1015 S. Shepherd Drive, Houston, Texas 77019",
+        "phone": "AC 713-529-9126",
+        "po_box": "P.O. BOX 13026"
+      },
+      "services": ["Graphic Arts", "Printing", "Advertising", "Sales Promotion"]
+    },
+    {
+      "id": "COMP021",
+      "entity_type": "recipient",
+      "name": "Rice University",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "Rice University",
+      "location_name": "Houston, TX",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "department": "Office of the President",
+        "address": "#203 Lovett Hall",
+        "contact_person": "Russ Pittman"
+      }
+    },
+    {
+      "id": "COMP022",
+      "entity_type": "broker",
+      "name": "Freight Forwarder Quote Online",
+      "carrier_name": null,
+      "broker_name": "Freight Forwarder Quote Online",
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Los Angeles, CA",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "601 South Figueroa Street, Suite 4050, Los Angeles, CA 90017",
+        "phone": "13005512123",
+        "website": "ffqo.com"
+      }
+    },
+    {
+      "id": "COMP023",
+      "entity_type": "broker",
+      "name": "Freight Broker",
+      "carrier_name": null,
+      "broker_name": "Freight Broker",
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": "Ottawa, Ontario",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "7 Bayview Station Road, Ottawa, Ontario, Canada K1Y 3B5",
+        "contact_person": "Gwen Malbec",
+        "phone": "5147941311",
+        "email": "gwen@freightpath.io"
+      },
+      "identifiers": {
+        "scac": "BABE",
+        "mc_number": "5245676",
+        "usdot": "1743796"
+      }
+    },
+    {
+      "id": "COMP024",
+      "entity_type": "shipper",
+      "name": "Freightforce Warehouse",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": "Freightforce Warehouse",
+      "consignee_name": null,
+      "location_name": "Elk Grove Village, IL",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",
+        "contact_person": "John Hopkins",
+        "phone": "+1 (736) 726-8833",
+        "email": "jhopkins@thisiswork.com"
+      }
+    },
+    {
+      "id": "COMP025",
+      "entity_type": "consignee",
+      "name": "Chicago Airpot",
+      "carrier_name": null,
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": "Chicago Airpot",
+      "location_name": "Chicago, IL",
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "contact_info": {
+        "address": "10000 West O'Hare Avenue, Chicago, Illinois, United States 60666"
+      }
+    },
+    {
+      "id": "COMP026",
+      "entity_type": "carrier",
+      "name": "UPS",
+      "carrier_name": "UPS",
+      "broker_name": null,
+      "shipper_name": null,
+      "consignee_name": null,
+      "location_name": null,
+      "tms_name": null,
+      "eld_provider": null,
+      "payroll_system": null,
+      "factoring_company": null,
+      "active": true,
+      "services": ["Package Delivery", "UPS Standard", "UPS Carbon Neutral"]
+    }
+  ],
+  "entity_types": [
+    {"id": "carrier", "description": "Transportation companies that physically move freight"},
+    {"id": "shipper", "description": "Companies that send goods"},
+    {"id": "consignee", "description": "Companies that receive goods"},
+    {"id": "broker", "description": "Intermediaries that arrange transportation"},
+    {"id": "software", "description": "TMS and logistics software providers"},
+    {"id": "financial", "description": "Banks, factoring companies, and payment processors"},
+    {"id": "pickup_location", "description": "Locations where goods are picked up"},
+    {"id": "recipient", "description": "End customers or recipients of goods"}
+  ],
+  "relationships": [
+    {"from_company_id": "COMP001", "to_company_id": "COMP002", "relationship_type": "carrier_for"},
+    {"from_company_id": "COMP001", "to_company_id": "COMP003", "relationship_type": "delivers_to"},
+    {"from_company_id": "COMP006", "to_company_id": "COMP007", "relationship_type": "carrier_for"},
+    {"from_company_id": "COMP006", "to_company_id": "COMP008", "relationship_type": "delivers_to"},
+    {"from_company_id": "COMP009", "to_company_id": "COMP010", "relationship_type": "software_for"},
+    {"from_company_id": "COMP016", "to_company_id": "COMP017", "relationship_type": "picks_up_from"},
+    {"from_company_id": "COMP016", "to_company_id": "COMP018", "relationship_type": "delivers_to"},
+    {"from_company_id": "COMP020", "to_company_id": "COMP021", "relationship_type": "supplies_to"},
+    {"from_company_id": "COMP023", "to_company_id": "COMP024", "relationship_type": "broker_for"},
+    {"from_company_id": "COMP023", "to_company_id": "COMP025", "relationship_type": "delivers_to"}
+  ]
+}

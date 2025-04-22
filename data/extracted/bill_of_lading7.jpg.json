@@ -1,0 +1,153 @@
+{
+    "file_name": "Bill of Landing for Port to Port Shipment",
+    "topics": [
+        "Bill of Landing",
+        "Shipping Document",
+        "International Shipment",
+        "Freight",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "Maersk Line",
+        "shipper_company_info": {
+            "name": "Shenzhen Allsheng Trade Co., Ltd.",
+            "address": "Phoenix Road Luohu district, Guangdong",
+            "city": "Shenzhen City",
+            "country": "China",
+            "phone": "086-755-36922075",
+            "freight_and_charges_payable_by": "Shipper",
+            "terms_of_sale": "FOB (2010)"
+        },
+        "shipment_info": {
+            "packing_list_no": "219618043-1",
+            "bill_of_landing_no": "SSOF090406718",
+            "number_of_original_bills_issued": "Three (3)",
+            "place_and_date_of_issue": "Shenzhen / China, 15 - August - 2010"
+        },
+        "shipment_product_info": {
+            "description": "500 units of 15.6 inch laptop with core i7 8GB RAM",
+            "packaging": "In 6 pallets with 80 packages each and 1 pallet with 20 packages",
+            "volume": "1.63 M\u00b3 and 0.41 M\u00b3",
+            "gross_weight": "1650 Kg",
+            "measurement": "10.2 M\u00b3"
+        },
+        "driver_info": {},
+        "vehicle_info": {},
+        "cost_info": {
+            "ocean_freight": "USD 3,300"
+        },
+        "consignee_company_info": {
+            "name": "Alejead Pe S.A.S.",
+            "address": "Carrera 100 5-39 - Cali - Valle - Colombia",
+            "phone": "059-032-4491451",
+            "email": "alejead@hotmail.com"
+        },
+        "delivery_info": {
+            "place_of_receipt": "Shenzhen / China",
+            "port_of_loading": "Shanghai / China",
+            "place_of_delivery": "Cali / Colombia",
+            "port_of_discharge": "Buenaventura / Colombia",
+            "total_no_of_containers_packages_received_by_the_carrier": "1/0"
+        },
+        "carrier_info": {
+            "name": "Maersk Line",
+            "vessel_voyage": "CSCL LE HAVRE / 0029W"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "15 - August - 2010",
+        "entity_type": "bill of lading",
+        "special_instructions": "For Release Of Shipment, Please Contact: Agencia de Aduanas Siacomex Lida - Buenaventura"
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "company_name": "Shenzhen Allsheng Trade Co., Ltd.",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Shenzhen Allsheng Trade Co., Ltd.",
+                "matched_id": "67fb2746810d50c07a6241f8",
+                "addresses": [
+                    {
+                        "street": "Phoenix Road Luohu district, Guangdong",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "Phoenix Road Luohu district, Guangdong"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "carrier",
+            "company_name": "Maersk Line",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Maersk Line",
+                "matched_id": "67fb2758810d50c07a6241fa",
+                "addresses": [],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        },
+        {
+            "entity_type": "consignee",
+            "company_name": "Alejead Pe S.A.S.",
+            "match_found": true,
+            "is_new_entity": false,
+            "match_details": {
+                "matched_name": "Alejead Pe S.A.S.",
+                "matched_id": "67fb2765810d50c07a6241fc",
+                "addresses": [
+                    {
+                        "street": "Carrera 100 5-39 - Cali - Valle - Colombia",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "postal_code": "",
+                        "raw_address": "Carrera 100 5-39 - Cali - Valle - Colombia"
+                    }
+                ],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": []
+            },
+            "aliases_found": []
+        }
+    ]
+}

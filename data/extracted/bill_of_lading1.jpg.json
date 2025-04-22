@@ -1,0 +1,87 @@
+{
+    "file_name": "Bill_of_Lading_Sample",
+    "topics": [
+        "bill of lading",
+        "transportation",
+        "shipping"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "MAMO TRANSPORTATION, INC.",
+        "shipper_company_info": {
+            "name": "ABC Company",
+            "address": "100 Main Street",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "zip": "84115",
+            "phone": "800-564-9992"
+        },
+        "shipment_info": {
+            "shipper_origin": "Salt Lake City, UT",
+            "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+            "phone": "800-204-4000"
+        },
+        "shipment_product_info": {
+            "vehicle": "0006 Kenworth Tractor",
+            "odometer": "2442",
+            "type": "Tandem Bucket Day Cab",
+            "size": "W/10.5/Capac",
+            "weight": "27,000 GVW",
+            "start_miles": "42",
+            "total_miles": "2400"
+        },
+        "driver_info": {
+            "name": "Joseph Driver",
+            "date": "12-12-05"
+        },
+        "vehicle_info": {
+            "vin": "N5596",
+            "trailer_vin": ""
+        },
+        "cost_info": {
+            "fuel_type": "Diesel",
+            "fuel_level": "3/4",
+            "gas_level": "1/2",
+            "diesel_level": "1/4",
+            "empty": "X"
+        },
+        "consignee_company_info": {
+            "name": "123 Firm",
+            "address": "642 Maple Lane",
+            "city": "Boston",
+            "state": "MA",
+            "phone": "800-204-4000"
+        },
+        "delivery_info": {
+            "date": "12-12-05"
+        },
+        "carrier_info": {
+            "name": "MAMO TRANSPORTATION, INC.",
+            "address": "P.O. Box 40",
+            "city": "Oaxoala",
+            "state": "IN",
+            "zip": "46561",
+            "phone": "888-668-6885",
+            "fax": "866-450-3580",
+            "safety_fax": "888-466-9110"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "shipper_signature": true,
+            "driver_signature": true,
+            "carrier_signature": true,
+            "consignee_signature": true
+        },
+        "signature_validation": {
+            "driver_signature": true,
+            "shipper_signature": true,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "12-12-05",
+        "entity_type": "bill of lading",
+        "special_instructions": "Vehical condition at pick up and release to driver is satisfactory except as noted on the pre-trip diagram and/or for hidden damage which may not be apparent in pre-trip inspection."
+    }
+}

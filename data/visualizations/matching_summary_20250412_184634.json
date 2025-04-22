@@ -1,0 +1,19 @@
+{
+    "total_entities": 11,
+    "match_rate": 100.0,
+    "entity_type_distribution": {
+        "shipper": 3,
+        "carrier": 3,
+        "consignee": 3,
+        "broker": 2
+    },
+    "match_status": {
+        "Matched": 11
+    },
+    "success_rates": {
+        "shipper": 100.0,
+        "carrier": 100.0,
+        "consignee": 100.0,
+        "broker": 100.0
+    }
+}

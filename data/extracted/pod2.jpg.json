@@ -1,0 +1,71 @@
+{
+    "file_name": "proof_of_delivery",
+    "topics": [
+        "delivery",
+        "shipment",
+        "logistics"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "DropOff",
+        "shipper_company_info": {
+            "name": "7-Eleven",
+            "address": "1919 Cypress Creek Road",
+            "zip_code": "1234",
+            "city": "Cedar Park",
+            "state": "TX",
+            "postal_code": "78613"
+        },
+        "shipment_info": {
+            "date": "Monday, Aug 1, 2022",
+            "time": "8:13 AM CDT",
+            "distance": "21.26 miles"
+        },
+        "shipment_product_info": {
+            "description": "Covid Tests",
+            "recipient": "HEB",
+            "temperature": "Ambient (Room Temp)",
+            "container": "Crate",
+            "weight": "1 pound",
+            "item_barcode": "ALHAMBRA2"
+        },
+        "driver_info": {
+            "name": "jewel Wright"
+        },
+        "vehicle_info": {},
+        "cost_info": {},
+        "consignee_company_info": {
+            "name": "Abuelo's",
+            "address": "1965 S Capital of Texas Way",
+            "zip_code": "1234",
+            "city": "Austin",
+            "state": "TX",
+            "postal_code": "78746"
+        },
+        "delivery_info": {
+            "date": "Monday, Aug 1, 2022",
+            "time": "8:13 AM CDT"
+        },
+        "carrier_info": {
+            "name": "DropOff"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "Monday, Aug 1, 2022",
+        "entity_type": "proof of delivery",
+        "special_instructions": "Scan Sublocation Data, Scan Barcode Data"
+    }
+}

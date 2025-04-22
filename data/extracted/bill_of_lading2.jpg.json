@@ -1,0 +1,81 @@
+{
+    "file_name": "img-0.jpeg",
+    "topics": [
+        "Bill of Lading",
+        "Transport Document",
+        "Shipping",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "UTTARA BANK LTD.",
+        "shipper_company_info": {
+            "name": "SL CHAMPION",
+            "address": "CHITTAGONG",
+            "contact": "0431-64172"
+        },
+        "shipment_info": {
+            "shipment_number": "CFF/99576A",
+            "shipment_date": "SEP 11 1999",
+            "shipment_type": "COMBINED TRANSPORT"
+        },
+        "shipment_product_info": {
+            "product_description": "B.P. SHEET/COLLOR",
+            "quantity": "42.25 X TONS",
+            "package_type": "20' CONTAINERS",
+            "number_of_packages": "2",
+            "size": "3 FEET X 3 FEET"
+        },
+        "driver_info": {
+            "name": "Not Available",
+            "signature": false
+        },
+        "vehicle_info": {
+            "vehicle_id": "SL CHAMPION 043Y",
+            "port_of_loading": "HALTRAX ON"
+        },
+        "cost_info": {
+            "total_cost": "94242.000"
+        },
+        "consignee_company_info": {
+            "name": "THE CARRIER",
+            "address": "TORONTO",
+            "contact": "CANADA"
+        },
+        "delivery_info": {
+            "delivery_date": "SEP 13 1999",
+            "delivery_status": "ON BOARD"
+        },
+        "carrier_info": {
+            "name": "THE CARRIER",
+            "address": "TORONTO",
+            "contact": "CANADA"
+        },
+        "broker_info": {
+            "name": "NOT AVAILABLE",
+            "address": "TORONTO",
+            "contact": "CANADA"
+        },
+        "tms_info": {
+            "not_applicable": "NOT PART OF BILL OF LADING"
+        },
+        "eld_provider_info": {
+            "not_applicable": "NOT PART OF BILL OF LADING"
+        },
+        "signatures": {
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false,
+            "driver_signature": false
+        },
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": true,
+            "consignee_signature": false
+        },
+        "date": "SEP 11 1999",
+        "entity_type": "bill of lading",
+        "special_instructions": "12 DAYS FREE DEMURRAGE"
+    }
+}

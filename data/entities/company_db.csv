@@ -1,0 +1,27 @@
+id,entity_type,name,carrier_name,broker_name,shipper_name,consignee_name,location_name,tms_name,eld_provider,payroll_system,factoring_company,active,address,phone,email,website,usdot
+COMP001,carrier,MAMO Transportation Inc.,MAMO Transportation Inc.,,,,"Osceola, IN",,,,,,true,"P.O. Box 40, Osceola, IN 46561",888-668-6885,,www.mamotransportation.com,753560
+COMP002,shipper,ABC Company,,,ABC Company,,"Salt Lake City, Utah",,,,,,true,"100 Main Street, Salt Lake City, Utah",800-564-9998,,
+COMP003,consignee,123 Firm,,,,123 Firm,"Boston, MA",,,,,,true,"642 Maple Lane, Boston, MA",800-205-4000,,
+COMP004,carrier,Combined Transport S.A.,Combined Transport S.A.,,,,,,,,,,true,,,,
+COMP005,financial,Vitara Bank Ltd.,,,,,"Mississauga, ON",,,,,Vitara Bank Ltd.,true,"375 Traders Blvd., Mississauga, ON L4Z 2K5",,,
+COMP006,carrier,Maersk Line,Maersk Line,,,,,,,,,,true,,,,
+COMP007,shipper,Shenzhen Allsheng Import,,,Shenzhen Allsheng Import,,"Shenzhen, China",,,,,,true,"Phoenix Road, Luohu district, Guangdong, Shenzhen city, China",086-755-36922075,,
+COMP008,consignee,Alejcid Pc S.A.S.,,,,Alejcid Pc S.A.S.,"Cali, Colombia",,,,,,true,"Carrera 100 5-39, Cali, Valle, Colombia",059-032-4491451,alejcaid@hotmail.com,
+COMP009,software,Linbis Logistics Software,,,,,Miami FL,Linbis Logistics Software,,,,,true,"5406 NW 72 AVE, Miami, FL 33166 PANAMA",(305) 513-8555,info@linbis.com,www.linbis.com
+COMP010,carrier,FedEx,FedEx,,,,,,,,,,true,,,,
+COMP011,shipper,Sample Company IFASCLO,,,Sample Company IFASCLO,,"Sample City, CA",,,,,,true,"8551 EAST 86 TH STREET, Sample City, CA 55532",,,
+COMP012,consignee,Sample Company CODE,,,,Sample Company CODE,"Sample City, 55532",,,,,,true,"88185 NW 51th St Unit 811, Sample City, 55532",,,
+COMP013,broker,Freightera Logistics Inc.,,Freightera Logistics Inc.,,,"Vancouver, BC",,,,,,true,"408 - 55 Water Street, Office B036, Vancouver, BC V6B 1A1",800-866-4870,accountspayable@freightera.com,
+COMP014,broker,Mercury Business SVCS LLC,,Mercury Business SVCS LLC,,,"Boston, MA",,,,,,true,"61 BATTERYMARCH ST, BOSTON, MA 02110 US",,,
+COMP015,software,Detrack,,,,,,,,,,,true,,,,
+COMP016,carrier,Dropoff,Dropoff,,,,,,,,,,true,,,,
+COMP017,pickup_location,7-Eleven,,,,,Cedar Park TX,,,,,,true,,,,
+COMP018,consignee,Abuelo's,,,,Abuelo's,"Austin, TX",,,,,,true,"1234, Austin, TX 78746",,,
+COMP019,recipient,HEB,,,,HEB,,,,,,,true,,,,
+COMP020,shipper,Wetmore & Company,,,Wetmore & Company,,"Houston, TX",,,,,,true,"1015 S. Shepherd Drive, Houston, Texas 77019",AC 713-529-9126,,
+COMP021,recipient,Rice University,,,,Rice University,"Houston, TX",,,,,,true,"#203 Lovett Hall",,,
+COMP022,broker,Freight Forwarder Quote Online,,Freight Forwarder Quote Online,,,"Los Angeles, CA",,,,,,true,"601 South Figueroa Street, Suite 4050, Los Angeles, CA 90017",13005512123,,ffqo.com
+COMP023,broker,Freight Broker,,Freight Broker,,,"Ottawa, Ontario",,,,,,true,"7 Bayview Station Road, Ottawa, Ontario, Canada K1Y 3B5",5147941311,gwen@freightpath.io,
+COMP024,shipper,Freightforce Warehouse,,,Freightforce Warehouse,,"Elk Grove Village, IL",,,,,,true,"2317 Landmeier Road, Elk Grove Village, Illinois, United States 60007",+1 (736) 726-8833,jhopkins@thisiswork.com,
+COMP025,consignee,Chicago Airpot,,,,Chicago Airpot,"Chicago, IL",,,,,,true,"10000 West O'Hare Avenue, Chicago, Illinois, United States 60666",,,
+COMP026,carrier,UPS,UPS,,,,,,,,,,true,,,,

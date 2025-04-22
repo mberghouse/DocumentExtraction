@@ -1,0 +1,136 @@
+{
+    "file_name": "Bill of Lading #FRP-500343-1",
+    "topics": [
+        "Bill of Lading",
+        "Freight Broker",
+        "Shipping",
+        "Logistics"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "Freight Broker",
+        "shipper_company_info": {
+            "name": "GARLAND, TX",
+            "address": "513 Meadow Creek Lane",
+            "arrival": "Dec 25, 2022, 12:00",
+            "departure": "Dec 25, 2022, 13:00",
+            "contact": "Ben",
+            "phone": "+1 (613) 373-2834",
+            "email": "ben@benben.com"
+        },
+        "shipment_info": {
+            "pickup_number": "34567",
+            "delivery_number": "8765",
+            "carrier": "Freight Broker",
+            "contact": "Gwen Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io",
+            "scac": "BABE",
+            "mc_number": "5245676",
+            "usdot": "1743796"
+        },
+        "shipment_product_info": {
+            "units": [
+                {
+                    "type": "CARTON",
+                    "description": "Produce - Peach",
+                    "dimensions": "48",
+                    "weight": "2300.00 lb",
+                    "hazmat": "Y",
+                    "stack": "Y",
+                    "high_val": "Y"
+                },
+                {
+                    "type": "CASE",
+                    "description": "Machinery Parts",
+                    "dimensions": "48",
+                    "weight": "4000.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_val": "Y"
+                },
+                {
+                    "type": "BUNDLE",
+                    "description": "Wood Logs",
+                    "dimensions": "48",
+                    "weight": "5500.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_val": "N"
+                },
+                {
+                    "type": "GENERAL",
+                    "description": "General Freight",
+                    "dimensions": "0",
+                    "weight": "0.00 lb",
+                    "hazmat": "N",
+                    "stack": "N",
+                    "high_val": "N"
+                }
+            ],
+            "total_weight": "11800.00 lb"
+        },
+        "driver_info": {
+            "name": "Driver Name",
+            "signature": "Driver Signature"
+        },
+        "vehicle_info": {
+            "type": "Truck",
+            "license_plate": "ABC123"
+        },
+        "cost_info": {
+            "declared_valuation": "US\\(0.00",
+            "currency": "USD"
+        },
+        "consignee_company_info": {
+            "name": "CHICAGO AIRPORT",
+            "address": "10000 West O'Hare Avenue",
+            "arrival": "Dec 26, 2022, 14:30",
+            "departure": "Dec 26, 2022, 16:45",
+            "contact": "Jeannine",
+            "phone": "+1 (352) 374-8877",
+            "email": "jeannine@boisfret.ca"
+        },
+        "delivery_info": {
+            "pickup_instruction": "Measure to properly package the freight and add a TARP prior to leaving pick up facility.",
+            "delivery_instruction": "Call Jeannine 10 minutes before arriving at the yard."
+        },
+        "carrier_info": {
+            "name": "Freight Broker",
+            "contact": "Gwen Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io"
+        },
+        "broker_info": {
+            "name": "Freight Broker",
+            "contact": "Gwen Malbec",
+            "phone": "5147941311",
+            "email": "gwen@freightpath.io"
+        },
+        "tms_info": {
+            "scac": "BABE",
+            "mc_number": "5245676",
+            "usdot": "1743796"
+        },
+        "eld_provider_info": {
+            "name": "ELD Provider",
+            "contact": "ELD Provider Contact",
+            "phone": "ELD Provider Phone"
+        },
+        "signatures": {
+            "shipper_signature": true,
+            "driver_signature": true,
+            "carrier_signature": true,
+            "consignee_signature": true
+        },
+        "signature_validation": {
+            "driver_signature": true,
+            "shipper_signature": true,
+            "carrier_signature": false,
+            "consignee_signature": true
+        },
+        "date": "Dec 25, 2022",
+        "entity_type": "bill of lading",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+}

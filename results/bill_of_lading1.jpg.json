@@ -1,0 +1,173 @@
+{
+    "file_name": "Bill_of_Lading_Sample",
+    "topics": [
+        "bill of lading",
+        "transportation",
+        "shipping"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "MAMO TRANSPORTATION, INC.",
+        "shipper_company_info": {
+            "name": "ABC Company",
+            "address": "100 Main Street",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "zip": "84115",
+            "phone": "800-564-9992"
+        },
+        "shipment_info": {
+            "shipper_origin": "Salt Lake City, UT",
+            "consignee_destination": "123 Firm, 642 Maple Lane, Boston, MA",
+            "phone": "800-204-4000"
+        },
+        "shipment_product_info": {
+            "vehicle": "0006 Kenworth Tractor",
+            "odometer": "2442",
+            "type": "Tandem Bucket Day Cab",
+            "size": "W/10.5/Capac",
+            "weight": "27,000 GVW",
+            "start_miles": "42",
+            "total_miles": "2400"
+        },
+        "driver_info": {
+            "name": "Joseph Driver",
+            "date": "12-12-05"
+        },
+        "vehicle_info": {
+            "vin": "N5596",
+            "trailer_vin": ""
+        },
+        "cost_info": {
+            "fuel_type": "Diesel",
+            "fuel_level": "3/4",
+            "gas_level": "1/2",
+            "diesel_level": "1/4",
+            "empty": "X"
+        },
+        "consignee_company_info": {
+            "name": "123 Firm",
+            "address": "642 Maple Lane",
+            "city": "Boston",
+            "state": "MA",
+            "phone": "800-204-4000"
+        },
+        "delivery_info": {
+            "date": "12-12-05"
+        },
+        "carrier_info": {
+            "name": "MAMO TRANSPORTATION, INC.",
+            "address": "P.O. Box 40",
+            "city": "Oaxoala",
+            "state": "IN",
+            "zip": "46561",
+            "phone": "888-668-6885",
+            "fax": "866-450-3580",
+            "safety_fax": "888-466-9110"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "shipper_signature": true,
+            "driver_signature": true,
+            "carrier_signature": true,
+            "consignee_signature": true
+        },
+        "signature_validation": {
+            "driver_signature": true,
+            "shipper_signature": true,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "12-12-05",
+        "entity_type": "bill of lading",
+        "special_instructions": "Vehical condition at pick up and release to driver is satisfactory except as noted on the pre-trip diagram and/or for hidden damage which may not be apparent in pre-trip inspection."
+    },
+    "matching_results": [
+        {
+            "entity_type": "shipper",
+            "matched_entity": {
+                "name": "ABC Company",
+                "entity_type": "shipper",
+                "addresses": [
+                    {
+                        "raw_address": "100 Main Street"
+                    }
+                ],
+                "phones": [
+                    "800-564-9992"
+                ],
+                "emails": [],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": [],
+                "created_date": "2025-04-13T22:41:50.807190",
+                "last_updated": "2025-04-13T22:41:50.807190",
+                "_id": "7362110f-3d08-46ae-8c95-9e62d0b237ab"
+            },
+            "is_new": false,
+            "confidence": 1.0
+        },
+        {
+            "entity_type": "carrier",
+            "matched_entity": {
+                "name": "MAMO TRANSPORTATION, INC.",
+                "entity_type": "carrier",
+                "addresses": [
+                    {
+                        "raw_address": "P.O. Box 40"
+                    }
+                ],
+                "phones": [
+                    "888-668-6885"
+                ],
+                "emails": [],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": [],
+                "created_date": "2025-04-13T22:42:02.339614",
+                "last_updated": "2025-04-13T22:42:02.339614",
+                "_id": "3039d179-c6d2-4d93-af0d-7acb5576a3a2"
+            },
+            "is_new": false,
+            "confidence": 1.0
+        },
+        {
+            "entity_type": "consignee",
+            "matched_entity": {
+                "name": "123 Firm",
+                "entity_type": "consignee",
+                "addresses": [
+                    {
+                        "raw_address": "642 Maple Lane"
+                    }
+                ],
+                "phones": [
+                    "800-204-4000"
+                ],
+                "emails": [],
+                "identifiers": {
+                    "usdot": "",
+                    "mc_number": "",
+                    "scac": "",
+                    "tax_id": ""
+                },
+                "aliases": [],
+                "created_date": "2025-04-13T22:42:15.684605",
+                "last_updated": "2025-04-13T22:42:15.684605",
+                "_id": "591ab8c1-4087-4297-9514-c76b1453d5ad"
+            },
+            "is_new": false,
+            "confidence": 1.0
+        }
+    ]
+}

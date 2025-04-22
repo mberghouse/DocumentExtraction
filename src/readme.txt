@@ -1,0 +1,2 @@
+The code for the hackathon is in src/hackathon_async.py (and hackathon.py, which is just the sequential version)
+All other code/files were developed beforehand and used as reference to build my solution during the hackathon.

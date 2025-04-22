@@ -1,0 +1,66 @@
+{
+    "file_name": "DELIVERY_STATUS",
+    "topics": [
+        "delivery",
+        "status",
+        "proof of delivery"
+    ],
+    "languages": "en",
+    "ocr_contents": {
+        "entity_company_name": "Detrack",
+        "shipper_company_info": {
+            "name": "Detrack",
+            "address": "61 Kaki Bukit Avenue 1 #05-33D Shun Li Ind Park"
+        },
+        "shipment_info": {
+            "serial_no": "N/A",
+            "scheduled": "2016-09-13 (6:00 PM - 8:00 PM)",
+            "status": "DELIVERED",
+            "reason": "N/A",
+            "delivery_collection_time": "6:00 PM - 8:00 PM",
+            "time_slot": "Evening"
+        },
+        "shipment_product_info": {
+            "no": 1,
+            "sku": "001",
+            "description": "Apple Macbook Pro 13\" Actual Qty: 1"
+        },
+        "driver_info": {
+            "name": "Driver 1"
+        },
+        "vehicle_info": {},
+        "cost_info": {},
+        "consignee_company_info": {
+            "name": "John Tan",
+            "address": "61 Kaki Bukit Avenue 1 #05-33D Shun Li Ind Park"
+        },
+        "delivery_info": {
+            "instructions": "Remember to call recipient when you have reached destination",
+            "last_known_location": {
+                "address": "61 Kaki Bukit Avenue 1",
+                "latitude": 1.3365053,
+                "longitude": 103.9100053,
+                "date_time": "Tue, 13-Sep 2016, 06:08 PM"
+            }
+        },
+        "carrier_info": {},
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {
+            "driver_signature": true,
+            "shipper_signature": true,
+            "carrier_signature": false,
+            "consignee_signature": true
+        },
+        "signature_validation": {
+            "driver_signature": true,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "Tue, 13-Sep 2016, 06:08 PM",
+        "entity_type": "proof of delivery",
+        "special_instructions": "Remember to call recipient when you have reached destination"
+    }
+}

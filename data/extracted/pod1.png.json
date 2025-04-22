@@ -1,0 +1,52 @@
+{
+    "file_name": "Proof_of_Delivery",
+    "topics": [
+        "Proof of Delivery",
+        "Tracking Number",
+        "Weight",
+        "Service",
+        "Shipped/Billed On",
+        "Delivered On",
+        "Left At",
+        "Delivered To"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "entity_company_name": "UPS",
+        "shipper_company_info": {
+            "name": "UPS",
+            "address": "BRAMPTON, CA"
+        },
+        "shipment_info": {
+            "tracking_number": "1Z6X8A522025443577",
+            "weight": "57.00 LBS",
+            "service": "UPS Standard\u00ae with UPS Carbon Neutral",
+            "shipped_billed_on": "05/30/2024",
+            "delivered_on": "06/03/2024 11:04 A.M.",
+            "left_at": "Met Customer",
+            "delivered_to": "BRAMPTON, CA"
+        },
+        "shipment_product_info": {},
+        "driver_info": {},
+        "vehicle_info": {},
+        "cost_info": {},
+        "consignee_company_info": {},
+        "delivery_info": {},
+        "carrier_info": {
+            "name": "UPS"
+        },
+        "broker_info": {},
+        "tms_info": {},
+        "eld_provider_info": {},
+        "signatures": {},
+        "signature_validation": {
+            "driver_signature": false,
+            "shipper_signature": false,
+            "carrier_signature": false,
+            "consignee_signature": false
+        },
+        "date": "06/04/2024",
+        "entity_type": "proof of delivery",
+        "special_instructions": "Please print for your records as photo and details are only available for a limited time."
+    }
+}
